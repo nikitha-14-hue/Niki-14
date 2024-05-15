@@ -1,0 +1,5 @@
+reading files from java
+java is an object oriented programming language
+java is platform independent
+java is robust
+
